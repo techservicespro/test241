@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:0,TF1
+http://37.59.45.46/miniProxy.php/http://tf1livhlslivead-i.akamaihd.net/hls/live/224221/ioslive/live_1828.m3u8
+#EXTINF:0,France2
+http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_2/hls_v1/index.m3u8
+#EXTINF:0,France3
+http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_3/hls_v1/index.m3u8
+#EXTINF:0,France4
+https://edge3.mms-iptv.com/live/france4/chunks.m3u8?nimblesessionid=98038&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE4IDg6NDY6MDEgUE0maGFzaF92YWx1ZT1QR2lGUVBSQ0x5Y2RMTmVNY21vQmdRPT0mdmFsaWRtaW51dGVzPTMwMA==
+#EXTINF:0,Franceô
+http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_O/hls_v1/index.m3u8
+#EXTINF:0,ARTE
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
+#EXTINF:0,Canal+
+http://hls-m001.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/ios-v3-hd-clair/index.m3u8
+#EXTINF:0,France5
+http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_5/hls_v1/index.m3u8
+#EXTINF:0,NRJ12(HD)
+https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Cherie25(HD)
+https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,RMC STORY
+https://stream-07.dc3.dailymotion.com/dm/3/x13p3qi/live-2.m3u8
+#EXTINF:0,M6
+https://us.mms-iptv.com/live/m6/chunks.m3u8?nimblesessionid=830279&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE4IDEwOjEzOjQ3IFBNJmhhc2hfdmFsdWU9N3dXZ25JMlRFTFh4Qi9LL0o2d3ZFQT09JnZhbGlkbWludXRlcz0zMDA=
+#EXTINF:0,ROUGE TV
+https://livevideo.infomaniak.com/streaming/livecast/rougetv/playlist.m3u8
+#EXTINF:0,ROUGE TV
+https://rougetv.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTINF:0,TF1 S&F
+https://edge3.mms-iptv.com/live/hd1/chunks.m3u8?nimblesessionid=98313&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE4IDk6NDc6MjcgUE0maGFzaF92YWx1ZT1BTHlDOE8yZjkxTG4yQ0VyS0lvTmhBPT0mdmFsaWRtaW51dGVzPTMwMA==
+#EXTINF:0,TFX
+https://qatar.mms-iptv.com/live/tfx/chunks.m3u8?nimblesessionid=1351800&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE4IDEwOjA3OjMyIFBNJmhhc2hfdmFsdWU9NUNIaGFFMUg0TUlENWtWMmowMDdjdz09JnZhbGlkbWludXRlcz0zMDA=
+#EXTINF:0,TMC
+https://us.mms-iptv.com/live/tmc/chunks.m3u8?nimblesessionid=830198&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE4IDk6NTE6MTIgUE0maGFzaF92YWx1ZT1TcVRFcTM1U2x4SnM1OXJTMXU4OHpBPT0mdmFsaWRtaW51dGVzPTMwMA==
+#EXTINF:0,Cine+ frisson
+https://edge3.mms-iptv.com/live/cinef/chunks.m3u8?nimblesessionid=98335&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE4IDk6NTI6NDMgUE0maGFzaF92YWx1ZT1kVFZNN3lQcGZpbVNvZVBONld3UUpnPT0mdmFsaWRtaW51dGVzPTMwMA==
+#EXTINF:0,6TER
+https://qatar.mms-iptv.com/live/6ter/chunks.m3u8?nimblesessionid=1351680&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE4IDk6NTU6MjkgUE0maGFzaF92YWx1ZT02VG9tZi9YVmx5N2RUMVRXM25CZThnPT0mdmFsaWRtaW51dGVzPTMwMA==
+#EXTINF:0,W9
+https://edge3.mms-iptv.com/live/w9/chunks.m3u8?nimblesessionid=98348&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE4IDk6NTU6NTIgUE0maGFzaF92YWx1ZT0rMEpKa2t5Vlc5cjRlWmFzUFRKOWlRPT0mdmFsaWRtaW51dGVzPTMwMA==
+#EXTINF:0,La Une Belgique
+https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/laune-audio_1=128000-video=2000000.m3u8
+#EXTINF:0,La Deux Belgique
+https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/ladeux-audio_1=128000-video=2000000.m3u8
+#EXTINF:0,La Trois Belgique
+https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/latrois-audio_1=128000-video=2000000-190842114.m3u8
+#EXTINF:0,Equipe21
+http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+#EXTINF:0,GULLI
+http://37.59.45.46/miniProxy.php/http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102=64000-video=900000.m3u8
+#EXTINF:0,DISNEY XD
+http://144.217.253.140/Disneyxd/tracks-v1a1/index.m3u8
+#EXTINF:0,DISNEY CINEMA
+http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8
+#EXTINF:0,KTO
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:0,Gong
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:0,Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:0,FRANCE 24
+https://stream-02.dc3.dailymotion.com/dm/3/xigbvx/live-3.m3u8
+#EXTINF:0,Cnews(HD)
+https://stream-02.ix7.dailymotion.com/dm/3/x3b68jn/live-3.m3u8
+#EXTINF:0,TV5MONDE
+https://tv5infohls-i.akamaihd.net/hls/live/631613-b/tv5infohls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0,GABON 1ere
+https://us.mms-iptv.com/live/gabontv/chunks.m3u8?nimblesessionid=830083&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE4IDk6Mjk6NTYgUE0maGFzaF92YWx1ZT1iRkhiS2I4Um1GTStIWFNQVm02aGhBPT0mdmFsaWRtaW51dGVzPTMwMA==
+#EXTINF:0,GABON24
+https://manifest.googlevideo.com/api/manifest/hls_variant/gcr/fr/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/expire/1537935452/ipbits/0/ei/_LOqW-GuJc671gLJ-an4CQ/dover/11/playlist_type/DVR/signature/5003B93A86EABF1298498826B4A9EC34C7B15B7B.1F9CD4EC5BC1E415A05539C5EEB6263119796FA2/tx/23753345/id/Lwsl4W1P83A.0/go/1/ratebypass/yes/source/yt_live_broadcast/hfr/1/itag/0/txs/23753339%2C23753340%2C23753341%2C23753342%2C23753343%2C23753344%2C23753345%2C23753346/ip/2001%3Aac8%3A25%3Af%3A702%3A200%3A0%3A10f9/key/yt6/requiressl/yes/keepalive/yes/maudio/1/file/index.m3u8
+#EXTINF:0,BFM TV
+https://stream-09.ix7.dailymotion.com/dm/3/xgz4t1/live-3.m3u8
+#EXTINF:0,AFRIQUE MEDIA 
+https://stream-04.ix7.dailymotion.com/dm/3/x5dk3kj/live-3.m3u8
+#EXTINF:0,AFRICANEWS
+https://stream-04.dc3.dailymotion.com/dm/3/x6i37o5/live-3.m3u8
+#EXTINF:0,TELESUD
+https://stream-02.ix7.dailymotion.com/dm/3/x52et3w/live-2.m3u8
+#EXTINF:0,EMCI TV
+https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/03.m3u8
+#EXTINF:0,DIEU TV
+http://wzahighwinds.katapy.com/DIEUTVLIVE/smil:dieutv.smil/chunklist_w1399635021_b2256000.m3u8
+#EXTINF:0,NRJ hits
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:0,Virgin tv
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+#EXTINF:0,BBlack Carribean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:0,BBlack Africa
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:0,BBlack Classic
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
